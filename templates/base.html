@@ -1,0 +1,16 @@
+<nav>
+    <a href="{% url 'home' %}">Home</a> |
+    <a href="{% url 'about' %}">About</a> |
+    <a href="{% url 'checkout' %}">Checkout</a>
+</nav>
+
+
+{% block content %}
+<main>
+    <h1>Base HTML</h1>
+</main>
+{% endblock content %}
+
+<footer>
+    © 2022 Padeye Technologies LLC – All rights reserved
+</footer>
