@@ -1,4 +1,4 @@
-## LAB - Class 18
+## LAB - Class 26
 
 #### Project: Snacks Project
 #### Author: JJ Escandor
